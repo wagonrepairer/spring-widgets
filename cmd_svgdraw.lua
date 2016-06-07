@@ -296,7 +296,7 @@ local function PathToList(data)
                         nx = x
                         ny = y
                     else
-						echo ('cx', cx)
+						--echo ('cx', cx)
                         nx = cx + x
                         ny = cy + y
                     end
